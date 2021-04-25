@@ -1,5 +1,5 @@
 # saycheese
-A tool to hack camera from termux, for video tutorial visit youtube.com/TechnicalHeadquarter
+A tool to hack camera from termux
 # SayCheese v1.2
 ## Author: Manish Kumar Santoshi
 orignally coded by thelinuxchoise(repository deleted)
@@ -20,7 +20,7 @@ Usage of SayCheese for attacking targets without prior mutual consent is illegal
 ## Installing (Tested on Kali Linux 2020.1 and Latest Termux 23-septmber-2020):
 
 ```
-git clone https://github.com/Technicalheadquarter/saycheese
+git clone https://github.com/coolmanish01/saycheese
 cd saycheese
 chmod +x saycheese.sh
 ./saycheese.sh
